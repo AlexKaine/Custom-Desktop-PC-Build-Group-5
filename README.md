@@ -9,10 +9,7 @@
 - Villaflor, Gabriel Alexander Alvarez
 ---
 ## 1. Introduction
-Briefly describe your project build (1–2 paragraphs).
-Mention: target use case (e.g., general-purpose desktop, gaming, programming, data
-science, etc.) and budget constraint.
-
+This PC build is an Intel based Extreme-entry level gaming pc, combining the latest Intel 14th Gen Core i9 processor with cutting-edge DDR5 memory and a powerful NVIDIA GeForce RTX 4080 Super graphics card. This PC can handle all the latest games and is VR ready. When not used for gaming, this pc can be used for data science purposes and AI training with its 12TB NAS hard drive and RTX 4080 GPU. The Z90 motherboard inside provides maximum compatibility and future-proofing, all parts can be swapped for new releases.
 ---
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check.
@@ -51,12 +48,16 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1W1WiJEd4nZqQyf7
 | **Total** | | | **203825** | Within budget |
 ---
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.
-Example:
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board
-(LGA1700 socket, BIOS compatible).
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.
+- **CPU**: Socket LGA1700, 300 Watts compatible with B760M
+- **CPU Cooler**: Includes LGA1700 mounting kit
+- **Motherboard**: Supports Intel 14th Gen CPUs, DDR5 support up to 7800MHz, PCIe 5.0 M.2 slot for Gen5 SSD
+- **RAM**: DDR5-6600 CL32, Dual-channel configuration supported, Frequency within Intel 14th Gen range 2x8GB
+- **Storage 1 (SSD)**: M.2 2280 form factor fits motherboard slot, PCIe 5.0 x4 supported by Z790 supported
+- **Storage 2 (HDD)**: 	Standard 3.5" SATA drive fits case bays, SATA 6Gb/s supported by motherboard
+- **GPU**: 	PCIe 4.0 x16 is fully compatible with Z790 motherboard PCIe 5.0 x16 slot, Card length ~342 mm fits in Corsair 6500D (GPU clearance up to 400 mm), Requires 12VHPWR connector which is included with Seasonic Focus GX-1000 ATX 3.1 PSU
+- **PSU**: 1000W output supports i9 + 4080 Super, ATX 3.1 standard is compatible with case, Includes PCIe 5.0/12VHPWR cable
+- **Case**: Supports ATX/E-ATX motherboards, GPU clearance up to 400mm fits 4080 Super, Radiator support up to 360mm
+- **Case Fans**: Standard 120mm mounts in case, PWM + ARGB headers supported by Z790, Adds airflow for AIO + GPU cooling
 ---
 ## 5. Budget Analysis
 - **Budget Limit**: ₱200,000
@@ -65,14 +66,10 @@ Example:
 - Notes on trade-offs: Traded RTX 5070 for RTX 4080 Super and a larger hard drive.
 ---
 ## 6. Conclusion & Learnings
-Reflections on:
-- Price differences (international vs. Manila vendors)
-- Challenges in finding stock or cheaper equivalents
-- What the group learned about PC components and system design
+When comparing the prices with international sellers and local sellers, the local sellers are priced higher than their international counterparts. There is also a challenge in finding stock for the latest GPUs and CPUs with local sellers. As a group we learned the different socket types for CPUs like LGA1700 for intel and AM5 for AMD. We also learned about the performance difference between current generation DDR5 memory vs last generation DDR4 memory. When it comes to the PSU, we learned what the energy efficiency labels mean and its impact on our PC build. In conclusion, we learned the different compatibility considerations that have to be accounted for when building a new PC system.
 ---
 ## 7. Video pitch
 - Your video link here
 ## 8. References
 - ecommerce.datablitz.com.ph
-- PCPartPicker build link
-- Any technical documentation consulted
+- [PCPartPicker build link](https://pcpartpicker.com/list/KghwWc)
