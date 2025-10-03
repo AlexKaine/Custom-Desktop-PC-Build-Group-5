@@ -69,7 +69,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1W1WiJEd4nZqQyf7
 When comparing the prices with international sellers and local sellers, the local sellers are priced higher than their international counterparts. There is also a challenge in finding stock for the latest GPUs and CPUs with local sellers. As a group we learned the different socket types for CPUs like LGA1700 for intel and AM5 for AMD. We also learned about the performance difference between current generation DDR5 memory vs last generation DDR4 memory. When it comes to the PSU, we learned what the energy efficiency labels mean and its impact on our PC build. In conclusion, we learned the different compatibility considerations that have to be accounted for when building a new PC system.
 ---
 ## 7. Video pitch
-- Your video link here
+- [Video Pitch](https://youtu.be/mjpRsc5ORTs)
 ## 8. References
 - ecommerce.datablitz.com.ph
 - [PCPartPicker build link](https://pcpartpicker.com/list/KghwWc)
