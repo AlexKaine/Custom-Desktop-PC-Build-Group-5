@@ -38,8 +38,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1W1WiJEd4nZqQyf7
 ### Local Build Table
 | Component | Model | Vendor & Link | Price (Php) | Compatibility Notes|
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor (BX8071514900K) | [Datablitz](https://ecommerce.datablitz.com.ph/products/intel-core-i9-14900k-14th-gen-3-2ghz-24-core-lga-1700-processor-bx8071514900k) | 28850 | Socket LGA1700, 300 Watts
-compatible with B760M |
+| CPU | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor (BX8071514900K) | [Datablitz](https://ecommerce.datablitz.com.ph/products/intel-core-i9-14900k-14th-gen-3-2ghz-24-core-lga-1700-processor-bx8071514900k) | 28850 | Socket LGA1700, 300 Watts compatible with B760M |
 | CPU Cooler | Corsair iCUE Link H150I RGB 360MM LCD AIO Liquid CPU Cooler | [Datablitz](https://ecommerce.datablitz.com.ph/products/corsair-icue-link-h150i-rgb-360mm-lcd-aio-liquid-cpu-cooler) | 17895 | Includes LGA1700 mounting kit
 |
 | Motherboard | Asus ROG Strix Z790-A Gaming Wifi II Motherboard | [Datablitz](https://ecommerce.datablitz.com.ph/products/asus-rog-strix-z790-a-gaming-wifi-ii-motherboard) | 25950 | Supports Intel 14th Gen CPUs, DDR5 support up to 7800MHz, PCIe 5.0 M.2 slot for Gen5 SSD
