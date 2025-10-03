@@ -36,10 +36,8 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/KghwWc
 This build uses **locally available parts** from Manila vendors.
 Google spreadsheet link: https://docs.google.com/spreadsheets/d/1W1WiJEd4nZqQyf7bMihzjsfs0qFheCv4LBxTGAMARk4/edit?gid=533572080#gid=533572080
 ### Local Build Table
-| Component | Model | Vendor & Link | Price (Php) | Compatibility Notes
-|
-|-----------------|-------|--------------------|-------------|---------------------
------------------|
+| Component | Model | Vendor & Link | Price (Php) | Compatibility Notes|
+|-----------------|-------|--------------------|-------------|--------------------------------------|
 | CPU | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor (BX8071514900K) | [Datablitz](https://ecommerce.datablitz.com.ph/products/intel-core-i9-14900k-14th-gen-3-2ghz-24-core-lga-1700-processor-bx8071514900k) | 28850 | Socket LGA1700, 300 Watts
 compatible with B760M |
 | CPU Cooler | Corsair iCUE Link H150I RGB 360MM LCD AIO Liquid CPU Cooler | [Datablitz](https://ecommerce.datablitz.com.ph/products/corsair-icue-link-h150i-rgb-360mm-lcd-aio-liquid-cpu-cooler) | 17895 | Includes LGA1700 mounting kit
